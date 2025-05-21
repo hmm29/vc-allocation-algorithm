@@ -1,0 +1,24 @@
+Problem we're solving:
+
+Suppose we discover a bug with our algorithm and investors for two deals had incorrect
+allocations. This means that some of the investors ended up investing more than they were allowed to
+while others invested less than they were allowed to. One of deals happened two years ago and the
+other one happened two weeks ago.
+
+If we discovered a bug in our allocation algorithm that caused incorrect investments in two deals (one from two years ago and another from two weeks ago) here's what I would do
+
+First I'd identify all the investors affected by the bug by reviewing the allocation data for both deals. Knowing exactly who invested more or less than they should have is key to figuring out how to fix things.
+
+Then I'd consult with our legal and compliance teams to make sure any steps we take are within regulations and won't cause additional issues. This is especially important for the deal from two years ago, since there might be legal limitations on making changes after so much time. We might need to report the issue to regulatory bodies.
+
+For the recent deal from two weeks ago, I'd reach out to the affected investors individually. I'd explain what happened, apologize sincerely, outline how we plan to correct it. For those who over-invested, we could adjust their investment amounts or offer refunds if necessary. 
+
+For those who under-invested, I'd offer them the opportunity to invest the remaining amount or prioritize them in upcoming deals. Can provide them with a clear timeline for these actions and make sure they have a direct point of contact for any questions. Following up after implementing the solutions would help ensure their concerns are fully addressed.
+
+re: the deal from two years ago, it might not be possible to adjust past allocations due to the time elapsed and potential tax implications. If this is the case I'd look for ways to compensate the affected investors, maybe by offering them enhanced opportunities in future deals, fee reductions, or other goodwill gestures to acknowledge the inconvenience. Clear and empathetic communication is the focus; we need to explain the situation, express our regret, and offer meaningful solutions.
+
+Throughout this process I'd work closely with our internal teams — operations, finance, customer service, etc. — to make sure everything is handled smoothly. Keeping the affected investors updated regularly would help maintain their trust and show our commitment to resolving the issue.
+
+Internally I'd focus on preventing this from happening again by figuring out how the bug occurred and why we didn't catch it earlier. Based on what we learn, we'd strengthen our testing and quality assurance processes (e.g. implementing automated testing for critical algorithms, regular code reviews, audits of our allocation processes). We'd also train our team on the new procedures to emphasize the importance of accuracy
+
+I'd push to set up additional checks and safeguards to ensure our allocations are accurate moving forward. This could include alerts or monitoring systems to catch any issues quickly. These steps allow us to correct the issue effectively, maintain our investors' trust (critical!), and prevent similar problems in the future.

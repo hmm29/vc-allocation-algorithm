@@ -1,0 +1,26 @@
+Note on customer comms:
+
+When an investor reaches out upset about consistently receiving smaller allocations (like getting squeezed down to $25K when they requested $100K) it's really important to address their concerns with empathy and transparency to maintain and strengthen our relationship with them.
+
+I'd start by acknowledging their frustration and thanking them for bringing the issue to my attention. It's crucial they feel heard and valued. For example I'd write:
+
+"Thank you for sharing your concerns with me. I understand how receiving a smaller allocation than you requested can be frustrating, and I appreciate your taking the time to reach out."
+
+Then I'd explain the situation transparently, e.g.:
+
+"Due to the high demand for certain deals and limited available allocation, we often have to distribute investment amounts among many interested investors. Our current allocation process aims to be fair by basing allocations on each investor's historical average investment amount. This helps us ensure that everyone has equitable access to these opportunities."
+
+To help alleviate their concerns and maintain our relationship, I'd offer to explore ways we can better meet their investment goals:
+
+"Your partnership is highly valued, and we're committed to supporting your investment objectives. 
+Let's look into deals where we might have more allocation available, which could allow you to invest larger amounts. Additionally, if it aligns with your strategy, consistently investing higher amounts when possible could increase your historical average investment, potentially leading to larger allocations in future high-demand deals."
+
+I could also invite further discussion to address any additional concerns, e.g.
+
+"I'd love to discuss this further to see how we can enhance your experience and better meet your needs. Please feel free to reach out to me directly at your convenience."
+
+By reaffirming their importance to us and expressing our commitment to their investment goals, we work towards minimizing any damage to our relationship.
+
+Of course, we'd also need to throughly investigate the cause of the bug, and any changes to the allocation process would need to be carefully evaluated to ensure fairness for all investors. We'd need to test the new logic, assess its impact, and communicate any updates clearly to our investor community.
+
+By addressing the investor's concerns thoughtfully, offering actionable solutions, and exploring potential improvements to our allocation algorithm and process, our team can work towards minimizing these issues and maintaining strong relationships with our investors .
